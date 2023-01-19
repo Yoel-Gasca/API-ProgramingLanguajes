@@ -1,0 +1,17 @@
+{
+  "name": "api1-programinglanguajes",
+  "version": "1.0.0",
+  "description": "API de lengujes de programacion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yoel-Gasca",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3"
+  }
+}
